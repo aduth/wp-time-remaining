@@ -11,7 +11,7 @@ Download and extract the [zip archive](https://github.com/aduth/g-debugger/archi
 Alternatively, as a single-file plugin, it can be downloaded directly and placed within the [`mu-plugins` directory](https://codex.wordpress.org/Must_Use_Plugins) of a site.
 
 ```
-mkdir -p wp-content/mu-plugins && curl https://raw.githubusercontent.com/aduth/time-remaining/master/index.php > wp-content/mu-plugins/time-remaining.php
+mkdir -p wp-content/mu-plugins && curl https://raw.githubusercontent.com/aduth/wp-time-remaining/master/index.php > wp-content/mu-plugins/time-remaining.php
 ```
 
 ## Usage
